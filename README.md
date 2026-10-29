@@ -1,6 +1,6 @@
 # Taller UX
 Formulario de inscripcion redisenado aplicando principios de UX/UI.
-Pagina publicada: https://github.com/NILJOAN/taller-ux.git
+Pagina publicada: http://127.0.0.1:5500/index.html
 ## Cambios aplicados
 | Principio | Cambio |
 |-----------|--------|
